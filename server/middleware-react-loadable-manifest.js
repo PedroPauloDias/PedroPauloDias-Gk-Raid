@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app\\\\providers.js -> next-themes\":{\"id\":\"app\\\\providers.js -> next-themes\",\"files\":[\"static/chunks/_app-pages-browser_node_modules_next-themes_dist_index_mjs.js\"]}}"
